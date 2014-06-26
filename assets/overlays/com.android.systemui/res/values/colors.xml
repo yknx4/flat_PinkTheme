@@ -21,11 +21,11 @@
     <color name="no_recent_apps">#bebebe</color>
 
     <color name="system_bar_background_opaque">#ffff2056</color>
-    <color name="system_bar_background_semi_transparent">#44ff2056</color> <!-- 40% black -->
+    <color name="system_bar_background_semi_transparent">#88ff2056</color> <!-- 40% black -->
     <color name="notification_panel_solid_background">#ff777777</color>
     <color name="status_bar_recents_app_label_color">#ffffffff</color>
     <color name="notification_list_shadow_top">#00000000</color>
-    <color name="notification_panel_scrim_color">#B0555555</color>
+    <color name="notification_panel_scrim_color">#BB555555</color>
     <color name="batterymeter_frame_color">#66FFEBEF</color><!-- 40% white -->
     <color name="batterymeter_charge_color">#FFFFEBEF</color>
     <color name="batterymeter_bolt_color">#B2000000</color><!-- 70% black -->
