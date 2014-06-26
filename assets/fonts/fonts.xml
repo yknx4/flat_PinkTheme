@@ -13,6 +13,8 @@
             <file>Roboto-Bold.ttf</file>
             <file>Roboto-Italic.ttf</file>
             <file>Roboto-BoldItalic.ttf</file>
+            <file>Roboto-Black.ttf</file>
+            <file>Roboto-BlackItalic.ttf</file>
         </fileset>
     </family>
     
@@ -43,6 +45,8 @@
         <fileset>
             <file>RobotoCondensed-Regular.ttf</file>
             <file>RobotoCondensed-Italic.ttf</file>
+            <file>RobotoCondensed-Light.ttf</file>
+            <file>RobotoCondensed-LightItalic.ttf</file>
             <file>RobotoCondensed-Bold.ttf</file>
             <file>RobotoCondensed-BoldItalic.ttf</file>
         </fileset>
