@@ -23,7 +23,7 @@
 
     <!-- Framework Slider Buttons Textcolor -->
     <style name="TextAppearance.Holo.Widget.Switch" parent="@android:style/TextAppearance.Holo.Small">
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">#ffe5eb</item>
     </style>
     
     <style name="TextAppearance.Holo.DialogWindowTitle">

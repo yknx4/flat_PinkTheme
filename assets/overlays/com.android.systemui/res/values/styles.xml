@@ -27,8 +27,9 @@
 
     <style name="TextAppearance.StatusBar.TextButton" parent="@style/TextAppearance.StatusBar">
         <item name="android:textAppearance">?android:attr/textAppearance</item>
+        <item name="android:fontFamily">sans-serif-light</item>
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textColor">#FFffe5eb</item>
     </style>
 
     <style name="TextAppearance.StatusBar.SimSlotLabel" parent="@android:style/TextAppearance.StatusBar.Icon">
@@ -43,7 +44,7 @@
         <item name="android:textSize">32dp</item>
         <item name="android:fontFamily">sans-serif-light</item>
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">#ffe5eb</item>
     </style>
 
     <style name="TextAppearance.StatusBar.Expanded.Date">
@@ -64,7 +65,7 @@
         <item name="android:textSize">12dp</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">#CCCCCC</item>
-        <item name="android:textAllCaps">true</item>
+        <item name="android:textAllCaps">false</item>
         <item name="android:paddingStart">6dp</item>
         <item name="android:paddingEnd">6dp</item>
     </style>
