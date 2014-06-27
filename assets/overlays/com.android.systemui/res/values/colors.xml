@@ -18,8 +18,8 @@
 <resources>
 
     <!-- Color for the "No recent apps" text in the recent apps list. -->
-    <color name="no_recent_apps">#bebebe</color>
-
+    <color name="no_recent_apps">#ff2056</color>
+    <color name="title_color">#ffffe5eb</color>
     <color name="system_bar_background_opaque">#ffff2056</color>
     <color name="system_bar_background_semi_transparent">#88ff2056</color> <!-- 40% black -->
     <color name="notification_panel_solid_background">#ff777777</color>
@@ -33,4 +33,25 @@
     <color name="batterymeter_low">#FFFF85A2</color>
     <color name="batterymeter_full">#FFFFEBEF</color>
     <color name="status_bar_clock_color">#FFFFEBEF</color>
+
+    <color name="sb_batterymeter_frame_color">#66ffffff</color>
+    <color name="sb_batterymeter_charge_color">#ffffffff</color>
+    <color name="sb_batterymeter_bolt_color">#b2000000</color>
+    <color name="sb_batterymeter_critical">#ffff3300</color>
+    <color name="sb_batterymeter_low">#ffff3300</color>
+    <color name="sb_batterymeter_full">#ffffffff</color>
+    <color name="sb_batterymeter_circle_bg">#66ffffff</color>
+    <color name="sb_batterymeter_circle_fg">#ffffffff</color>
+    <color name="sb_batterymeter_circle_text">#ffffffff</color>
+    <color name="sb_batterymeter_circle_text_charging">#ffffffff</color>
+    <color name="pie_battery_background">#aaffffff</color>
+    <color name="pie_battery_juice_background">#aaffffff</color>
+    <color name="pie_battery_juice_low_background">#ffffbb33</color>
+    <color name="pie_battery_juice_critical_background">#ffff4444</color>
+    <color name="pie_chevron_background">#aaffffff</color>
+    <color name="pie_menu_background">#65000000</color>
+    <color name="pie_outlines_background">#55ffffff</color>
+    <color name="pie_snap_background">#aaffffff</color>
+    <color name="pie_select_background">#aaffffff</color>
+    <color name="pie_status_background">#aaffffff</color>
 </resources>

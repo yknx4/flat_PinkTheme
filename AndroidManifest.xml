@@ -16,14 +16,14 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yknx4.themes.pink">
+    package="com.yknx.themes.pink">
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 
-    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Pink Theme">
+    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Flat Pink PA/CM11 Theme">
     </application>
 
-    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Pink Theme"/>
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Flat Pink"/>
     <meta-data android:name="org.cyanogenmod.theme.author" android:value="Yknx4" />
 
 </manifest>
