@@ -61,11 +61,11 @@
     <color name="background_digits_dialpad">#f2ffffff</color>
 
     <!-- Call button color separated from dialpad_primary_text_color, for better theme support -->
-    <color name="dialpad_call_button_color">#404040</color>
+    <color name="dialpad_call_button_color">#ff2056</color>
 
     <!-- Background color of action bars.  Ensure this stays in sync with packages/Telephony
          actionbar_background_color. -->
-    <color name="actionbar_background_color">#3B77E7</color>
+    <color name="actionbar_background_color">#ff2056</color>
 
     <!-- Underline color of action bars.  Ensure this stays in sync with packages/Telephony
          actionbar_underline. -->
@@ -109,7 +109,7 @@
     <color name="favorites_menu_background_color">#eeeeee</color>
 
     <!-- Text color for the "All Contacts" button above the favorite callers -->
-    <color name="all_contacts_button_text_color">#ffffff</color>
+    <color name="all_contacts_button_text_color">#ffe5eb</color>
 
     <!-- Background gradient start color for tabs in an unpressed state. -->
     <color name="tab_background_gradient_start_color">#d3d3d3</color>
@@ -124,13 +124,13 @@
     <color name="tab_background_gradient_end_pressed_color">#dedede</color>
 
     <!-- Color of the underline for a tab which is selected. -->
-    <color name="tab_underline_selected_color">#3265c1</color>
+    <color name="tab_underline_selected_color">#ff2056</color>
 
     <!-- Color of the underline for a tab which is not selected. -->
     <color name="tab_underline_color">#c8c8c8</color>
 
     <!-- Color of the selection indicator for a tab which is selected. -->
-    <color name="tab_selected_color">#3b77e7</color>
+    <color name="tab_selected_color">#ff2056</color>
 
     <!-- Color of tab text. -->
     <color name="tab_text_color">#505050</color>
@@ -150,7 +150,7 @@
 
     <!-- New Colors for Theme Chooser to be compatible -->
     <color name="call_detail_photo_bg">#7f000000</color>
-    <color name="call_log_divider">#55ffffff</color>
+    <color name="call_log_divider">#55ffe5eb</color>
     <color name="call_log_primary_text_color">#000000</color>
     <color name="call_log_primary_background_color">#000000</color>
     <color name="call_log_secondary_text_color">#888888</color>
