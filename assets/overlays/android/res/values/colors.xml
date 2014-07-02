@@ -17,9 +17,11 @@
 
 <resources>
 
+
+
     <color name="holo_blue_bright">#ffff83a0</color>
     <color name="holo_blue_dark">#ffff2056</color>
-    <color name="holo_blue_light">#ffffd1dc</color>
+    <color name="holo_blue_light">#ffff83a0</color>
     <color name="background_holo_dark">#ff555555</color>
     <color name="background_holo_light">#ffffd1dc</color>
     <color name="bright_foreground_holo_dark">@color/background_holo_light</color>
@@ -38,9 +40,9 @@
     <color name="dim_foreground_inverse_holo_light">#ffbebebe</color>
     <color name="dim_foreground_inverse_disabled_holo_light">#80bebebe</color>
     <color name="hint_foreground_holo_light">#ff808080</color>
-    <color name="highlighted_text_holo_dark">#6633b5e5</color>
-    <color name="highlighted_text_holo_light">#6633b5e5</color>
-    <color name="link_text_holo_dark">#ff5c5cff</color>
-    <color name="link_text_holo_light">#ff0000ee</color>
+    <color name="highlighted_text_holo_dark">#66ffd1dc</color>
+    <color name="highlighted_text_holo_light">#66ffd1dc</color>
+    <color name="link_text_holo_dark">#ffff2056</color>
+    <color name="link_text_holo_light">#ffff0d47</color>
 
 </resources>
