@@ -18,10 +18,10 @@
 <resources>
 
     <!-- Color for the "No recent apps" text in the recent apps list. -->
-    <color name="no_recent_apps">#ff2056</color>
+    <color name="no_recent_apps">@*common:color/pink_dark</color>
     <color name="title_color">#ffffe5eb</color>
-    <color name="system_bar_background_opaque">#ffff2056</color>
-    <color name="system_bar_background_semi_transparent">#88ff2056</color> <!-- 40% black -->
+    <color name="system_bar_background_opaque">#ff000000</color>
+    <color name="system_bar_background_semi_transparent">#88000000</color> <!-- 40% black -->
     <color name="notification_panel_solid_background">#ff777777</color>
     <color name="status_bar_recents_app_label_color">#ffffffff</color>
     <color name="notification_list_shadow_top">#00000000</color>

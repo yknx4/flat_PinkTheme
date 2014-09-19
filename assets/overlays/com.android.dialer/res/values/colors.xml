@@ -25,9 +25,9 @@
     <!-- Pressed color of dialpad buttons -->
     <color name="background_dialpad_pressed">#ececec</color>
     <!-- Primary color of dialpad text, including the call button -->
-    <color name="dialpad_primary_text_color">#ff2056</color>
+    <color name="dialpad_primary_text_color">@*common:color/pink_dark</color>
     <!-- Secondary color of dialpad text (used for the letters corresponding to each digit -->
-    <color name="dialpad_secondary_text_color">#ffd1dc</color>
+    <color name="dialpad_secondary_text_color">@*common:color/light_pink_bg</color>
     <!-- Color of dialpad digits -->
     <color name="dialpad_digits_text_color">#000000</color>
     <!-- Color for dialpad separator lines -->
@@ -61,11 +61,11 @@
     <color name="background_digits_dialpad">#f2ffffff</color>
 
     <!-- Call button color separated from dialpad_primary_text_color, for better theme support -->
-    <color name="dialpad_call_button_color">#ff2056</color>
+    <color name="dialpad_call_button_color">@*common:color/pink_dark</color>
 
     <!-- Background color of action bars.  Ensure this stays in sync with packages/Telephony
          actionbar_background_color. -->
-    <color name="actionbar_background_color">#ff2056</color>
+    <color name="actionbar_background_color">@*common:color/pink_dark</color>
 
     <!-- Underline color of action bars.  Ensure this stays in sync with packages/Telephony
          actionbar_underline. -->
@@ -124,13 +124,13 @@
     <color name="tab_background_gradient_end_pressed_color">#dedede</color>
 
     <!-- Color of the underline for a tab which is selected. -->
-    <color name="tab_underline_selected_color">#ff2056</color>
+    <color name="tab_underline_selected_color">@*common:color/pink_dark</color>
 
     <!-- Color of the underline for a tab which is not selected. -->
     <color name="tab_underline_color">#c8c8c8</color>
 
     <!-- Color of the selection indicator for a tab which is selected. -->
-    <color name="tab_selected_color">#ff2056</color>
+    <color name="tab_selected_color">@*common:color/pink_dark</color>
 
     <!-- Color of tab text. -->
     <color name="tab_text_color">#505050</color>

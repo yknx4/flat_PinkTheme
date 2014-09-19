@@ -20,7 +20,7 @@
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 
-    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Flat Pink PA/CM11 Theme" android:debuggable="false">
+    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Flat Pink PA/CM11 Theme">
     </application>
 
     <meta-data android:name="org.cyanogenmod.theme.name" android:value="Flat Pink"/>

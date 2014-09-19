@@ -19,11 +19,13 @@
 
 
 
-    <color name="holo_blue_bright">#ffff83a0</color>
-    <color name="holo_blue_dark">#ffff2056</color>
-    <color name="holo_blue_light">#ffff83a0</color>
-    <color name="background_holo_dark">#ff555555</color>
-    <color name="background_holo_light">#ffffd1dc</color>
+
+    <color name="holo_blue_bright">@*common:color/pink_medium</color>
+    <color name="holo_blue_dark">@*common:color/pink_dark</color>
+    <color name="holo_blue_light">@*common:color/pink_medium</color>
+    <color name="background_holo_dark">@*common:color/dark_gray_bg</color>
+    <color name="background_holo_light">@*common:color/light_pink_bg</color>
+
     <color name="bright_foreground_holo_dark">@color/background_holo_light</color>
     <color name="bright_foreground_holo_light">@color/background_holo_dark</color>
     <color name="bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
